@@ -1,0 +1,7 @@
+# Dados do aparelho: nunca versionar
+resultados/
+# Baixado na hora, do site oficial
+platform-tools/
+*.zip
+.DS_Store
+Thumbs.db
